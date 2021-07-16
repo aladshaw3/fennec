@@ -1,5 +1,8 @@
 FENNEC
 =====
+
+WARNING: This code is NO LONGER actively maintained in this repo. Go to https://github.com/awiechert/Fennec for a maintained version. 
+
 Fallout Estimated Numerically from Nuclear Events in Cities <Version 0.1a>
 
 This is a MOOSE application being currently constructed with the express purpose of simulating radioactive particle fallout following a nuclear event or explosion in an urban area. 
